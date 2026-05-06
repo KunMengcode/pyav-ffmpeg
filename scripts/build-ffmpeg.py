@@ -69,7 +69,7 @@ codec_group = [
     ),
     Package(
         name="ogg",
-        source_url="http://downloads.xiph.org/releases/ogg/libogg-1.3.6.tar.gz",
+        source_url="https://github.com/HandBrake/HandBrake-contribs/releases/download/contribs2/libogg-1.3.6.tar.gz",
         sha256="83e6704730683d004d20e21b8f7f55dcb3383cdf84c0daedf30bde175f774638",
     ),
     Package(
